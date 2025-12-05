@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Lee-Su-Threads (你是誰)
-// @namespace    https://github.com/user/lee-su-threads
+// @namespace    https://github.com/zheharry/lee-su-threads
 // @version      0.2.1
 // @description  自動顯示 Threads 貼文作者的地點資訊 - Mobile compatible userscript for Tampermonkey/Violentmonkey/Userscripts
 // @author       Lee-Su-Threads
