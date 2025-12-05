@@ -95,6 +95,24 @@ A Chrome extension that automatically displays location info for Threads post au
 - No data is sent to external servers
 - Cache is automatically cleared after 24 hours
 
+## 行動裝置版本 (Userscript)
+
+如果你想在 iPhone/Android 行動裝置上使用，請參考 [userscript/README.md](userscript/README.md)。
+
+支援的平台：
+- **iOS**: Safari + [Userscripts App](https://apps.apple.com/app/userscripts/id1463298887)
+- **Android**: Firefox + Tampermonkey/Violentmonkey
+- **Android**: Kiwi Browser + Tampermonkey
+
+## Mobile Version (Userscript)
+
+For mobile devices (iPhone/Android), see [userscript/README.md](userscript/README.md).
+
+Supported platforms:
+- **iOS**: Safari + [Userscripts App](https://apps.apple.com/app/userscripts/id1463298887)
+- **Android**: Firefox + Tampermonkey/Violentmonkey
+- **Android**: Kiwi Browser + Tampermonkey
+
 ## License
 
 MIT License
